@@ -1,7 +1,7 @@
 # XO-SFML
 **X O game using SFML - c++**
 
-This is an implementation for the famous game XO using C++ and SFML library as my second project in my "How many projects you can do in your last semster" challenge
+This is an implementation for the famous game XO using C++ and SFML library as my second project in my "All You Can Develop" challenge
 
 
 # Setup sfml on your VS 👨🏼‍💻
